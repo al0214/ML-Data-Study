@@ -4,7 +4,7 @@
 
 ## 공부
 
-## Data-analysis 
+## [Data-analysis](https://github.com/al0214/ML-Data-Study/tree/main/Data-Analysis)
 
 ### 데이터 분석 기초
 - [Seaborn](https://github.com/al0214/ML-Data-Study/tree/main/Data-Analysis/Study/Seaborn-Basic)
