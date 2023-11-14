@@ -27,7 +27,8 @@
   - **'혼자 공부하는 머신러닝'** 책 기반 공부
   - 요약 : <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
 
-- [헬멧 인식](https://github.com/al0214/ML-Engineer-Study/tree/main/MachineLearning/School_BigData_Project_02)
+- [헬멧 인식](https://github.com/al0214/ML-Engineer-Study/tree/main/MachineLearning/Project
+- /School_BigData_Project_02)
   - 주제
     - 산불 연기 인식 모델
   - 사용 모델
