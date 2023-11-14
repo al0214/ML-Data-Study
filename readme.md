@@ -27,8 +27,7 @@
   - **'혼자 공부하는 머신러닝'** 책 기반 공부
   - 요약 : <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
 
-- [헬멧 인식](https://github.com/al0214/ML-Engineer-Study/tree/main/MachineLearning/Project
-- /School_BigData_Project_02)
+- [헬멧 인식](https://github.com/al0214/ML-Engineer-Study/tree/main/Machine-Learning/Project/Helmet_Detection)
   - 주제
     - 산불 연기 인식 모델
   - 사용 모델
@@ -41,14 +40,15 @@
   - 사용 모델
     - Yolov5
    
-- [학교 빅데이터 수행평가 01](https://github.com/al0214/ML-Engineer-Study/tree/main/MachineLearning/School_BigData_Project_01)
+- [학교 빅데이터 수행평가 01](https://github.com/al0214/ML-Engineer-Study/tree/main/Machine-Learning/Project/School_Bigdata_Project_01)
   - 주제
     - 시간별 및 연도별 범죄자 추이
   - 사용 프레임워크
     - matplotlib.pyplot  
 
-- [학교 빅데이터 수행평가 02](https://github.com/al0214/ML-Engineer-Study/tree/main/MachineLearning/School_BigData_Project_02)
+- [학교 빅데이터 수행평가 02](https://github.com/al0214/ML-Engineer-Study/tree/main/Machine-Learning/Project/School_BigData_Project_02)
   - 주제
+    - 산불과 일산화탄소의 관계 분석 및 시각화
     - 산불 연기 인식 모델
   - 사용 모델
     - Yolov7
