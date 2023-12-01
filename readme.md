@@ -43,8 +43,7 @@
 - [학교 빅데이터 수행평가 01](https://github.com/al0214/ML-Engineer-Study/tree/main/Machine-Learning/Project/School_Bigdata_Project_01)
   - 주제
     - 시간별 및 연도별 범죄자 추이
-  - 사용 프레임워크
-    - matplotlib.pyplot  
+  - 빅데이터 분석  
 
 - [학교 빅데이터 수행평가 02](https://github.com/al0214/ML-Engineer-Study/tree/main/Machine-Learning/Project/School_BigData_Project_02)
   - 주제
